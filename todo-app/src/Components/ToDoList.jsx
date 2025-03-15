@@ -1,4 +1,4 @@
-import ToDoItem from "./TodoItem";
+import ToDoItem from "./ToDoItem.jsx";
 import { GiPartyPopper } from "react-icons/gi";
 
 function ToDoList({ todo, deleteTask, editTask, toggleTodo }) {
